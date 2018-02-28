@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//shadowsocks/asyncdns.py=utf-8
+encoding//shadowsocks/common.py=utf-8
+encoding//shadowsocks/crypto/aead.py=utf-8
+encoding//shadowsocks/crypto/mbedtls.py=utf-8
+encoding//shadowsocks/eventloop.py=utf-8
+encoding//shadowsocks/server.py=utf-8
+encoding//shadowsocks/shell.py=utf-8
+encoding//shadowsocks/tcprelay.py=utf-8
+encoding//shadowsocks/udprelay.py=utf-8
+encoding/server.py=utf-8
+encoding/server_pool.py=utf-8
